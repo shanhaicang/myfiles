@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>JWTTools</id>
+    <version>1.0.0</version>
+    <authors>JWTTools</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net7.0">
+        <dependency id="Microsoft.AspNetCore.Authentication.JwtBearer" version="7.0.5" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\ApiProject\JWTTools\JWTTools\bin\Debug\net7.0\JWTTools.dll" target="lib\net7.0\JWTTools.dll" />
+  </files>
+</package>

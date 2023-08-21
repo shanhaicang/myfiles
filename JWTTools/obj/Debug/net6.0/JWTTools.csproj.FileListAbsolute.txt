@@ -1,0 +1,12 @@
+C:\Users\T14\Desktop\JWTTools\JWTTools\bin\Debug\net6.0\JWTTools.deps.json
+C:\Users\T14\Desktop\JWTTools\JWTTools\bin\Debug\net6.0\JWTTools.dll
+C:\Users\T14\Desktop\JWTTools\JWTTools\bin\Debug\net6.0\JWTTools.pdb
+C:\Users\T14\Desktop\JWTTools\JWTTools\obj\Debug\net6.0\JWTTools.csproj.AssemblyReference.cache
+C:\Users\T14\Desktop\JWTTools\JWTTools\obj\Debug\net6.0\JWTTools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T14\Desktop\JWTTools\JWTTools\obj\Debug\net6.0\JWTTools.AssemblyInfoInputs.cache
+C:\Users\T14\Desktop\JWTTools\JWTTools\obj\Debug\net6.0\JWTTools.AssemblyInfo.cs
+C:\Users\T14\Desktop\JWTTools\JWTTools\obj\Debug\net6.0\JWTTools.csproj.CoreCompileInputs.cache
+C:\Users\T14\Desktop\JWTTools\JWTTools\obj\Debug\net6.0\JWTTools.dll
+C:\Users\T14\Desktop\JWTTools\JWTTools\obj\Debug\net6.0\refint\JWTTools.dll
+C:\Users\T14\Desktop\JWTTools\JWTTools\obj\Debug\net6.0\JWTTools.pdb
+C:\Users\T14\Desktop\JWTTools\JWTTools\obj\Debug\net6.0\ref\JWTTools.dll
