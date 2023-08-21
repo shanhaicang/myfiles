@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JWTTools", "JWTTools\JWTTools.csproj", "{F4A268B8-C766-42D9-ADFA-F1C76AFC9883}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "encrypTools", "encrypTools\encrypTools.csproj", "{601B6A14-1AC8-46E1-A006-E0BC8D566D43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4A268B8-C766-42D9-ADFA-F1C76AFC9883}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4A268B8-C766-42D9-ADFA-F1C76AFC9883}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4A268B8-C766-42D9-ADFA-F1C76AFC9883}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4A268B8-C766-42D9-ADFA-F1C76AFC9883}.Release|Any CPU.Build.0 = Release|Any CPU
+		{601B6A14-1AC8-46E1-A006-E0BC8D566D43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{601B6A14-1AC8-46E1-A006-E0BC8D566D43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{601B6A14-1AC8-46E1-A006-E0BC8D566D43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{601B6A14-1AC8-46E1-A006-E0BC8D566D43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6318FFC-5823-4513-8401-BA29D5665903}
+	EndGlobalSection
+EndGlobal
